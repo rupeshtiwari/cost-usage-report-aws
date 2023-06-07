@@ -32,4 +32,9 @@ sudo pip3 install -r requirements.txt
 Run code 
 ```
 python3 index.py
-```# cost-usage-report-aws
+``` 
+![image](https://user-images.githubusercontent.com/330383/244120804-18519502-6b10-4d28-802c-0cd80203aaa3.png)
+
+## Summary
+
+Note this is not production ready and well tested code. This is just to show you potential capability to compare the cost usage report. 
