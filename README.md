@@ -37,4 +37,4 @@ python3 index.py
 
 ## Summary
 
-Note this is not production ready and well tested code. This is just to show you potential capability to compare the cost usage report. 
+Note this is not production ready and well tested code. This is just to show you potential capability to compare the cost usage report. Before using this code please make sure you have tested and modified the code as per your business requirements. 
